@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reepueghue.karljosefschneider.de/sitemap.xml
